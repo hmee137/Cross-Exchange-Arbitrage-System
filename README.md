@@ -78,7 +78,7 @@ Theo Mục C.3.1 đề yêu cầu 3 majors + 2 altcoin:
 
 ### Cài thư viện
 ```bash
-pip install websocket-client requests pandas numpy matplotlib
+pip install -r requirements.txt
 ```
 
 ### Khởi động bot
