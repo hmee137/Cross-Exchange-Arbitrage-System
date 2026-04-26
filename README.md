@@ -1,4 +1,4 @@
-# Cross-Exchange-Arbitrage-System
+# Phần C: Cross-Exchange-Arbitrage-System
 **Đề thi giữa kỳ Fintech — Phần nhóm (5-6 sinh viên)**
 
 ---
